@@ -1,0 +1,98 @@
+body{
+	margin:0;
+	padding:0;
+}
+.nav{
+	margin:0;
+}
+ul{
+	padding:8px;
+	margin:0;
+}
+li{
+	display:inline-block;
+	font-size:20px;
+	padding-left: 10px;
+}
+a{
+	color:#0f0a3e;
+	text-decoration:none;
+}
+a:hover{
+	color :#afa1cc;
+}
+.footer{
+	text-align: center;
+	margin:0;
+}
+#wlcm{
+	text-shadow: 2px 2px 2px #4f4f51;
+	color: #0f0a3e;
+}
+.nav-icon-right{
+	float:right;
+}
+.nav-icon-left,
+.nav-icon-right{
+	height:35px;
+	width:40px;	
+	padding-top: 5px;
+}
+.houses-img-div{
+	margin: 20px;
+	padding-left: 90px;
+}
+
+.house-img{
+	display: inline-block;
+}
+
+.house-div{
+	margin: 20px;
+	font-family: Baskerville Old Face;
+}
+.house-div p{
+	font-size:20px;	
+}
+.house-div-gryffindor{
+	color:#c41919;
+}
+.house-div-slytherin{
+	color: #197a23;
+}
+.house-div-ravenclaw{
+	color: #322f8c;
+}
+.house-div-hufflepuff{
+	color: #dce52b;
+}
+
+.house-div h3{
+	font-family: Blackadder ITC;
+	font-size: 30px;
+	text-align: center;
+}
+
+.quidditch-div{
+	font-family: Baskerville Old Face;
+	color: #0f0a3e;
+	margin: 30px;
+}
+
+.quidditch-div p{
+	font-size:20px;
+}
+
+.quidditch-div h1{
+	font-size: 40px;
+	text-align: center;
+	font-style: bold;
+}
+.quidditch-img{
+	float: right;
+	display: inline-block;
+	width: 10%;
+	height: 10%;
+
+}
+
